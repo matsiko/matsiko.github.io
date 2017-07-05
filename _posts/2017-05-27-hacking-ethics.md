@@ -19,7 +19,9 @@ Technical Analysis
 ------------------
 A WannaCry worm, a form of cryptovirus, infects a computer system on a network by using EternalBlue to exploit a vulnerability in the Server Message Block (SMB), spreads through the SMB layer protocol, and installs a backdoor implant tool called DoublePulsar. After installing the backdoor tool, two threads are created, the first thread scans hosts on the LAN, while the second thread replicates 128 times and scans hosts on the wider internet. Simply put, once the malware has infected one machine on the network, it will quickly propagate within that network without user interaction. 
 The initial infection vector isn’t clearly known but it’s largely believed that the ransomware spreads through these two scenarios;
+
 •	Arrival through social engineering emails designed to trick users to run the malware and activate the worm-spreading functionality with the SMB exploit. 
+
 •	Infection through SMB exploit when an unpatched computer can be addressed in other infected machines.
 Other notable examples of ransomwares that have previously plagued computer systems include; Teslacrypt, CryptoWall, Cryakl, Scatter, Mor, CTB-Locker, Fury, TorrentLocker, Lortok, Aura, and Shade. 
 
@@ -41,13 +43,12 @@ Mitigation Procedures
 •	Do not pay the ransom as there is no guarantee that the data will be recovered. 
 
 The general public is advised to follow the below practices in order to protect themselves; 
-* this is one 
-* this is two 
-<ol><li>Regular Installation of OS update releases: It is vital and highly recommended that every computer system user always install system patches as they are provided by the vendors. These patches fix identified security flaws, thereby protecting the computer systems from getting compromised through the exploitation of such known flaws. For this particular ransomware, the application of the March 14, 2017 Microsoft patch for the MS17-010 SMB vulnerability is highly recommended.</li> 
-<li>Get rid of End Of Life software: End Of Life (EOL) software is software that is no longer supported by the company that developed it. This means that such software isn’t updated to protect against emerging security threats. Some people become sentimental to some of their EOL software packages and refuse to stop using them. This has proved very dangerous and should be avoided.</li> 
-<li>Disaster Recovery:  Implement a data and backup plan to ensure that copies of proprietary data are maintained in a secure location.</li> 
-* Update Antivirus programs:
-</ol>
+
+1. Regular Installation of OS update releases: It is vital and highly recommended that every computer system user always install system patches as they are provided by the vendors. These patches fix identified security flaws, thereby protecting the computer systems from getting compromised through the exploitation of such known flaws. For this particular ransomware, the application of the March 14, 2017 Microsoft patch for the MS17-010 SMB vulnerability is highly recommended.
+2. Get rid of End Of Life software: End Of Life (EOL) software is software that is no longer supported by the company that developed it. This means that such software isn’t updated to protect against emerging security threats. Some people become sentimental to some of their EOL software packages and refuse to stop using them. This has proved very dangerous and should be avoided.
+3. Disaster Recovery:  Implement a data and backup plan to ensure that copies of proprietary data are maintained in a secure location.
+4. Update Antivirus programs:
+
 Impact of the attack.
 --------------------
 This attack should be seen as a wake-up call. With the daily advancement of technology, it’s going to be increasingly super hard to keep track of vulnerabilities. If this trend isn’t closely checked, It’s much possible that terrorists can muster up a lasting cyber attack. 
