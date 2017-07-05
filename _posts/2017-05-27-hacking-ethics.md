@@ -44,10 +44,13 @@ Mitigation Procedures
 
 The general public is advised to follow the below practices in order to protect themselves; 
 
-1. Regular Installation of OS update releases: It is vital and highly recommended that every computer system user always install system patches as they are provided by the vendors. These patches fix identified security flaws, thereby protecting the computer systems from getting compromised through the exploitation of such known flaws. For this particular ransomware, the application of the March 14, 2017 Microsoft patch for the MS17-010 SMB vulnerability is highly recommended.
-2. Get rid of End Of Life software: End Of Life (EOL) software is software that is no longer supported by the company that developed it. This means that such software isn’t updated to protect against emerging security threats. Some people become sentimental to some of their EOL software packages and refuse to stop using them. This has proved very dangerous and should be avoided.
-3. Disaster Recovery:  Implement a data and backup plan to ensure that copies of proprietary data are maintained in a secure location.
-4. Update Antivirus programs:
++ Regular Installation of OS update releases: It is vital and highly recommended that every computer system user always install system patches as they are provided by the vendors. These patches fix identified security flaws, thereby protecting the computer systems from getting compromised through the exploitation of such known flaws. For this particular ransomware, the application of the March 14, 2017 Microsoft patch for the MS17-010 SMB vulnerability is highly recommended.
+
++ Get rid of End Of Life software: End Of Life (EOL) software is software that is no longer supported by the company that developed it. This means that such software isn’t updated to protect against emerging security threats. Some people become sentimental to some of their EOL software packages and refuse to stop using them. This has proved very dangerous and should be avoided.
+
++ Disaster Recovery:  Implement a data and backup plan to ensure that copies of proprietary data are maintained in a secure location.
+
++ Update Antivirus programs:
 
 Impact of the attack.
 --------------------
