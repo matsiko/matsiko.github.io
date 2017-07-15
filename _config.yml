@@ -1,2 +1,5 @@
 name: Johnson Matsiko, InfoSec
 markdown: kramdown
+
+gems:
+  - jekyll-sitemap
