@@ -3,3 +3,5 @@ markdown: kramdown
 
 gems:
   - jekyll-sitemap
+  
+theme: space 
