@@ -1,7 +1,7 @@
 name: Johnson Matsiko, InfoSec
 markdown: kramdown
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-sitemap
